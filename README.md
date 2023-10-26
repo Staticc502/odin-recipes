@@ -1,1 +1,1 @@
-In this project I will be building a basic webpage about various recipes using my knowledge of html coding 
+In this project I have built a basic webpage using my knowledge of html coding to create links to other files from the index, create headings, and lists. I also was able to add images as well as use the height and width attributes to resize images.
