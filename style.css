@@ -1,0 +1,50 @@
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: rgb(158, 219, 255);
+}
+
+h1 {
+    color: rgb(92, 66, 97);
+    border-style: groove;
+    background-color: rgb(206, 193, 241);
+    width: 200px;
+    margin:0 auto;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'cursive', sans-serif;
+}
+
+img {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    border-style: double;
+    border-color: black;
+}
+
+.hpl {
+    text-align: center;
+}
+
+.buttons {
+    list-style: none;
+    margin: 10px;
+    font-size: 20px;
+    display: inline-block; 
+}
+
+button {
+    background-color: rgb(243, 168, 6);
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 25px;
+    
+}
